@@ -20,7 +20,7 @@
           "question_type": "TextQuestion",
           "prompt": "What is your third answer?",
           "is_required": true,
-          "min_char_length": 1,
+          "min_char_length": 1
       }
     ]
 }
